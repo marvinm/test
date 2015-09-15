@@ -1,2 +1,3 @@
-general:
-  build_dir: api
+test:
+  post:
+    - echo 'testing' > out.txt
