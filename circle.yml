@@ -1,3 +1,4 @@
 test:
   post:
     - echo 'testing' > out.txt
+	- echo 'testing circleci' > out2.txt
